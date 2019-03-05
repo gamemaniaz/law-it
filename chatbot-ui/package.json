@@ -1,0 +1,19 @@
+{
+  "name": "chatbot-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -o",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "botui": "^0.3.8"
+  },
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
